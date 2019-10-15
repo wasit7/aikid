@@ -1,0 +1,2 @@
+# aikid
+AI for kids
